@@ -1,0 +1,42 @@
+body {
+    background-color: #354649 ;
+}
+
+h1 {
+    text-align: center;
+    color: #A3C6C4;
+    font-family: monospace, Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    color: #E0E7E9;
+    font-family: monospace, Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    color: #E0E7E9;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    border: 1px solid #6C7A89;
+    padding: 0.5rem;
+    text-align: left;
+    color: #E0E7E9;
+}
+
+.margins {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.padding {
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+th {
+    background-color: hsl(230, 60%, 60%);
+}
